@@ -46,3 +46,11 @@ $ bower init
 
 [?] Looks good? Yes
 ```
+
+## ライブラリのインストール
+
+### バージョン指定無し（ex: jQuery）
+$bower install --save-dev jquery
+
+### バージョン指定あり（ex: jQuery）
+$bower install --save-dev jquery#1.11.x
