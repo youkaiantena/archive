@@ -1,0 +1,24 @@
+{
+  "name": "first-power-assert",
+  "version": "1.0.0",
+  "description": "初めてのpower-assert",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@youkaiantena.github.com:youkaiantena/power-assert.git"
+  },
+  "author": "youkaiantena <apple.kitaro@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "espower-loader": "^0.9.0",
+    "intelli-espower-loader": "^0.4.0",
+    "mocha": "^1.21.4",
+    "power-assert": "^0.9.0"
+  },
+  "directories": {
+    "test": "test/"
+  }
+}
