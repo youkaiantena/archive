@@ -49,8 +49,14 @@ $ bower init
 
 ## ライブラリのインストール
 
+### オプションについて
+
+開発版の場合は `--save-dev` 製品版は `--save` を指定する。
+
 ### バージョン指定無し（ex: jQuery）
+
 $ bower install --save-dev jquery
 
 ### バージョン指定あり（ex: jQuery）
+
 $ bower install --save-dev jquery#1.11.x
