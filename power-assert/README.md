@@ -2,6 +2,8 @@
 
 ## 初期化
 $ npm init
+
+```
 This utility will walk you through creating a package.json file.
 It only covers the most common items, and tries to guess sane defaults.
 
@@ -38,6 +40,7 @@ About to write to /youkaiantena/power-assert/package.json:
   "author": "youkaiantena <apple.kitaro@gmail.com>",
   "license": "MIT"
 }
+```
 
 ## Mochaのインストール
 $ npm install --save-dev mocha
