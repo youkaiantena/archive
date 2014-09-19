@@ -21,8 +21,12 @@
     "gulp-watch": "^1.0.5",
     "intelli-espower-loader": "^0.4.0",
     "karma": "^0.12.23",
-    "karma-browserify": "^0.2.1",
+    "karma-browserifast": "^0.7.0",
+    "karma-chrome-launcher": "^0.1.4",
+    "karma-firefox-launcher": "^0.1.3",
+    "karma-ie-launcher": "^0.1.5",
     "karma-mocha": "^0.1.9",
+    "karma-safari-launcher": "^0.1.1",
     "mocha": "^1.21.4",
     "power-assert": "^0.9.0",
     "vinyl-source-stream": "^1.0.0"
