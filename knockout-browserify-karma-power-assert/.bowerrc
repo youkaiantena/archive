@@ -1,4 +1,4 @@
 {
-  "directory": "/path/to/project/assets/javascript/lib",
+  "directory": "./src/javascript/lib",
   "json": "bower.json"
 }
