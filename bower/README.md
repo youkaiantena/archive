@@ -54,3 +54,14 @@ $ bower install --save-dev jquery
 
 ### バージョン指定あり（ex: jQuery）
 $ bower install --save-dev jquery#1.11.x
+
+## Gulpとの連携
+
+### Gulpのインストール
+
+$ npm init  
+$ npm install --save-dev gulp
+
+### プラグインのインストール
+
+$ npm install --save-dev gulp-uglify
