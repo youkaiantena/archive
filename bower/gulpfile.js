@@ -4,6 +4,6 @@ var uglify     = require('gulp-uglify');
 
 gulp.task('compress', function() {
   gulp.src('src/javascripts/**/*.js')
-    .pipe(uglify())
+    .pipe(uglify(preserveComments: 'some'))
     .pipe(gulp.dest('assets/javascripts/'))
 });
