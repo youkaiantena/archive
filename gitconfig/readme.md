@@ -1,7 +1,7 @@
 ### コマンドサンプル
 $ youkaiantena  
 $ git clone <リポジトリーのURL>  
-$ cd <cloneして出来たディレクトリー名>  
+$ cd \<cloneして出来たディレクトリー名\>  
 $ youkaiinit  
 
 // ほんとはyoukaiinitに含めたいのに、俺のbashが、、、
