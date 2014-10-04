@@ -1,0 +1,20 @@
+{
+  "name": "webpack-karma-power-assert",
+  "version": "0.0.0",
+  "homepage": "https://github.com/youkaiantena/webpack-karma-power-assert",
+  "authors": [
+    "youkaiantena <apple.kitaro@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "knockoutjs": "~3.2.0",
+    "jquery-1.11.0": "http://code.jquery.com/jquery-1.11.0.js"
+  }
+}
