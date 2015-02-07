@@ -1,0 +1,25 @@
+{
+  "name": "bower-gulp",
+  "version": "1.0.0",
+  "description": "## Bowerのインストール $ npm install -g bower",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.8.8",
+    "gulp-flatten": "^0.0.3",
+    "gulp-uglify": "^1.0.1"
+  },
+  "devDependencies": {
+    "gulp-bower-files": "^0.2.7",
+    "gulp-flatten": "0.0.3",
+    "gulp-uglify": "^1.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@youkaiantena.github.com:youkaiantena/bower.git"
+  },
+  "author": "youkaiantena <apple.kitaro@gmail.com>",
+  "license": "MIT"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "first bower",
+  "version": "0.0.0",
+  "authors": [
+    "youkaiantena <apple.kitaro@gmail.com>"
+  ],
+  "description": "初めてのBower",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
